@@ -1,3 +1,3 @@
 # GUI application 
 
-![alt text]
+image.png
