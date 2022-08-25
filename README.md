@@ -6,3 +6,6 @@
 ![Application screenshot](
     https://github.com/apayziev/GUI-application-with-Python-and-Qt5/blob/main/courses-viw.png
 )
+![Application screenshot](
+    https://github.com/apayziev/GUI-application-with-Python-and-Qt5/blob/main/page-view.png
+)
